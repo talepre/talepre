@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/talepre/precache-manifest.8b1717edb8a187fd76483b0c7523fa72.js"
+  "/talepre/precache-manifest.205009e4216da26cef6dbc7ac4b58b50.js"
 );
 
 self.addEventListener('message', (event) => {
