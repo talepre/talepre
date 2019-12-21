@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/talepre/static/css/main.d64834bd.chunk.css",
-    "main.js": "/talepre/static/js/main.b1191721.chunk.js",
-    "main.js.map": "/talepre/static/js/main.b1191721.chunk.js.map",
+    "main.css": "/talepre/static/css/main.e089dcf0.chunk.css",
+    "main.js": "/talepre/static/js/main.96b9f55d.chunk.js",
+    "main.js.map": "/talepre/static/js/main.96b9f55d.chunk.js.map",
     "runtime-main.js": "/talepre/static/js/runtime-main.b1df9afb.js",
     "runtime-main.js.map": "/talepre/static/js/runtime-main.b1df9afb.js.map",
     "static/js/2.50d7798d.chunk.js": "/talepre/static/js/2.50d7798d.chunk.js",
     "static/js/2.50d7798d.chunk.js.map": "/talepre/static/js/2.50d7798d.chunk.js.map",
     "index.html": "/talepre/index.html",
-    "precache-manifest.205009e4216da26cef6dbc7ac4b58b50.js": "/talepre/precache-manifest.205009e4216da26cef6dbc7ac4b58b50.js",
+    "precache-manifest.922a11124ffbe892c7aefc5f8c3ddba8.js": "/talepre/precache-manifest.922a11124ffbe892c7aefc5f8c3ddba8.js",
     "service-worker.js": "/talepre/service-worker.js",
-    "static/css/main.d64834bd.chunk.css.map": "/talepre/static/css/main.d64834bd.chunk.css.map",
+    "static/css/main.e089dcf0.chunk.css.map": "/talepre/static/css/main.e089dcf0.chunk.css.map",
     "static/js/2.50d7798d.chunk.js.LICENSE": "/talepre/static/js/2.50d7798d.chunk.js.LICENSE",
     "static/media/cacti.jpg": "/talepre/static/media/cacti.e5e4383a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b1df9afb.js",
     "static/js/2.50d7798d.chunk.js",
-    "static/css/main.d64834bd.chunk.css",
-    "static/js/main.b1191721.chunk.js"
+    "static/css/main.e089dcf0.chunk.css",
+    "static/js/main.96b9f55d.chunk.js"
   ]
 }
