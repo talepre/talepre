@@ -1,0 +1,13 @@
+.c-competition {
+  text-align: center;
+  width: 100%;
+}
+
+.c-competition__header {
+  background-color: var(--football-blue);
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  border-bottom: 6px solid var(--football-red);
+  margin: 0;
+  padding: 20px;
+}

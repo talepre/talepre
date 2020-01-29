@@ -4,8 +4,8 @@ import {
   Switch,
   Route,
 } from 'react-router-dom';
-import './App.css';
-import LandingPage from './LandingPage';
+import './index.css';
+import LandingPage from './LandingPage/LandingPage';
 import RememberMe from './RememberMe/RememberMe';
 import Competition from './Football/Competition';
 

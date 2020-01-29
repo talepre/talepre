@@ -1,11 +1,16 @@
 import React from 'react';
+import BEMHelper from 'react-bem-helper';
 
-const LandingPage: React.FC = () => {
+const Competition: React.FC = () => {
+  const classes = new BEMHelper({
+    name: 'competition',
+    prefix: 'c-'
+  });
   return (
-    <div>
-      <h1>Pinnekamp - poeng</h1>
+    <div {...classes()}>
+      <h1 {...classes('header')}>Pinnekamp - poeng</h1>
     </div>
   );
 }
 
-export default LandingPage;
+export default Competition;

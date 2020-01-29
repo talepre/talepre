@@ -1,14 +1,14 @@
-.App {
+.c-landingpage {
   text-align: center;
   background: #6C7266;
 }
 
-.background-pic {
+.c-landingpage__background-pic {
   opacity: 0.4;
   background-size: cover;
 }
 
-.site-text {
+.c-landingpage__site-text {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -16,7 +16,7 @@
   color: #EEF3F7;
 }
 
-h1 {
+.c-landingpage__header {
   font-family: 'Dancing script', cursive;
   font-size: 200px;
 }
