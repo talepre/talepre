@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/talepre/static/css/main.e089dcf0.chunk.css",
-    "main.js": "/talepre/static/js/main.96b9f55d.chunk.js",
-    "main.js.map": "/talepre/static/js/main.96b9f55d.chunk.js.map",
+    "main.css": "/talepre/static/css/main.0e496c5c.chunk.css",
+    "main.js": "/talepre/static/js/main.d94fb07d.chunk.js",
+    "main.js.map": "/talepre/static/js/main.d94fb07d.chunk.js.map",
     "runtime-main.js": "/talepre/static/js/runtime-main.b1df9afb.js",
     "runtime-main.js.map": "/talepre/static/js/runtime-main.b1df9afb.js.map",
-    "static/js/2.50d7798d.chunk.js": "/talepre/static/js/2.50d7798d.chunk.js",
-    "static/js/2.50d7798d.chunk.js.map": "/talepre/static/js/2.50d7798d.chunk.js.map",
+    "static/js/2.b30e664b.chunk.js": "/talepre/static/js/2.b30e664b.chunk.js",
+    "static/js/2.b30e664b.chunk.js.map": "/talepre/static/js/2.b30e664b.chunk.js.map",
     "index.html": "/talepre/index.html",
-    "precache-manifest.922a11124ffbe892c7aefc5f8c3ddba8.js": "/talepre/precache-manifest.922a11124ffbe892c7aefc5f8c3ddba8.js",
+    "precache-manifest.2ea653789aa38e0f845ff668b5e2438e.js": "/talepre/precache-manifest.2ea653789aa38e0f845ff668b5e2438e.js",
     "service-worker.js": "/talepre/service-worker.js",
-    "static/css/main.e089dcf0.chunk.css.map": "/talepre/static/css/main.e089dcf0.chunk.css.map",
-    "static/js/2.50d7798d.chunk.js.LICENSE": "/talepre/static/js/2.50d7798d.chunk.js.LICENSE",
+    "static/css/main.0e496c5c.chunk.css.map": "/talepre/static/css/main.0e496c5c.chunk.css.map",
+    "static/js/2.b30e664b.chunk.js.LICENSE": "/talepre/static/js/2.b30e664b.chunk.js.LICENSE",
     "static/media/cacti.jpg": "/talepre/static/media/cacti.e5e4383a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b1df9afb.js",
-    "static/js/2.50d7798d.chunk.js",
-    "static/css/main.e089dcf0.chunk.css",
-    "static/js/main.96b9f55d.chunk.js"
+    "static/js/2.b30e664b.chunk.js",
+    "static/css/main.0e496c5c.chunk.css",
+    "static/js/main.d94fb07d.chunk.js"
   ]
 }
