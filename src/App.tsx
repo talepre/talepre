@@ -1,16 +1,29 @@
 import React from 'react';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+} from 'react-router-dom';
 import './App.css';
-import img from './cacti.jpg'
+import LandingPage from './LandingPage';
+import RememberMe from './RememberMe/RememberMe';
+import Competition from './Football/Competition';
 
 const App: React.FC = () => {
   return (
-    <div className='App'>
-      <img className='background-pic' src={img} alt='backgroundpic' />
-      <section className='site-text'>
-        <h1>talepre</h1>
-        <h2>developer</h2>
-      </section>
-    </div>
+    <Router>
+      <Switch>
+        <Route path="/rememberme">
+          <RememberMe />
+        </Route>
+        <Route path="/pinnekamp">
+          <Competition />
+        </Route>
+        <Route path="/">
+          <LandingPage />
+        </Route>
+      </Switch>
+    </Router>
   );
 }
 
